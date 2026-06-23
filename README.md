@@ -7,7 +7,7 @@
 - 📫 Open to internships, collaborations, and opportunities in Data Science and AI.
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills in Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
