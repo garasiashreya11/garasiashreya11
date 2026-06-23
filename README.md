@@ -4,7 +4,7 @@
 ## 📌 About Me
 - 🎓 B.Tech Computer Science and Engineering Student.
 - 💻 Passionate about Machine Learning, Artificial Intelligence, and Software Development.
-- 📫 Open to internships, collaborations, and opportunities in Data Science and AI.
+- 📫 Open to internships, collaborations, and opportunities in Software Development and AI/ML.
 
 
 ## 🛠️ Skills in Tech Stack
